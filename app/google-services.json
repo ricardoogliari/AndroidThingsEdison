@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1096039856147",
+    "firebase_url": "https://calculadoraandroidthings.firebaseio.com",
+    "project_id": "calculadoraandroidthings",
+    "storage_bucket": "calculadoraandroidthings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096039856147:android:0a781d3413e6a1a4",
+        "android_client_info": {
+          "package_name": "things.android.estudo.com.calculadoraandroidthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096039856147-4cgc9d9s7renjg8f0cvdv4p133n0prvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "things.android.estudo.com.calculadoraandroidthings",
+            "certificate_hash": "FB64FB34A2623C24A40A5F13687C7045E6E44335"
+          }
+        },
+        {
+          "client_id": "1096039856147-aksifrs3s3he3brk9r4as3lng1i8ln5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCug6tSmkezL-DObcSrhGmI4WZLatNjAAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096039856147-aksifrs3s3he3brk9r4as3lng1i8ln5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096039856147:android:2d814b5e6441098c",
+        "android_client_info": {
+          "package_name": "things.android.estudo.com.jogowithandroidthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096039856147-b70qvld6re9dkcsapk90kub8s3ihg64d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "things.android.estudo.com.jogowithandroidthings",
+            "certificate_hash": "FB64FB34A2623C24A40A5F13687C7045E6E44335"
+          }
+        },
+        {
+          "client_id": "1096039856147-aksifrs3s3he3brk9r4as3lng1i8ln5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCug6tSmkezL-DObcSrhGmI4WZLatNjAAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096039856147-aksifrs3s3he3brk9r4as3lng1i8ln5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
